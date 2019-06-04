@@ -2,3 +2,8 @@ body{
     height: 100%;
     width: 100%;
 }
+
+.lorem1{
+    font-size: 25px;
+    color: blue;
+}
